@@ -1,1 +1,0 @@
-# sql-basic-operations-lab-skills
